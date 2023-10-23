@@ -1,4 +1,4 @@
-<h2> Hi there!, I'm Ziyad 👋 </h2>
+Hi there!, I'm Ziyad 👋
 
 
  yooo sup! I'm an 20-year-old maker who enjoys coding and drawing !
