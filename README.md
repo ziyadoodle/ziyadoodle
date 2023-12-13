@@ -1,7 +1,3 @@
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Ajarin+dong+puh+sepuh&center=true&width=360&height=30">
-</p>
-
 # Hi there!, I'm Ziyad 👋
 
 
@@ -9,7 +5,10 @@
 
 
 <img  src="https://cdn.discordapp.com/attachments/779282536585101313/1063660944431005717/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3737393238323533363538353130313331332f3830353038373733383034363331363535342f6769746875625f62616e6e65725f6173646173646173642e706e67.png" alt="ziyadoodle" width="1000" />
-
+<br />
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Ajarin+dong+puh+sepuh&center=true&width=360&height=30">
+</p>
 <br />
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀<br />
