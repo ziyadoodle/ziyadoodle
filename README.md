@@ -1,11 +1,11 @@
 # Hi there!, I'm 𝐙𝐢𝐲𝐚𝐝 👋˚₊‧⁺⋆
 
+### yooo sup! I'm an 20-year-old maker who enjoys coding and drawing. <br /> <br /> <br />
 
-### yooo sup! I'm an 20-year-old maker who enjoys coding and drawing.
+
 <div style="padding=0, margin=0">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jacquard+24&size=36&duration=3000&pause=50&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=I+will+show+you+all+that+I+have+mastered;Fear.;Pain.;Hatred.;Power.)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jacquard+24&size=36&duration=3000&pause=50&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000&height=50&lines=I+will+show+you+all+that+I+have+mastered;Fear.;Pain.;Hatred.;Power.)](https://git.io/typing-svg)
   <img  src="https://raw.githubusercontent.com/ziyadoodle/ziyadoodle/refs/heads/main/formidable_dark.jpeg" alt="" width="1000" align="center" />
   
 </div>
@@ -65,3 +65,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⣀⡾⠀⠀⠀⠀⠈⠓⠚⠋⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/ziyadoodle/ziyadoodle/refs/heads/main/text.gif" alt=""/>
+</div>
