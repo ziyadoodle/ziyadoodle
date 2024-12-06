@@ -68,4 +68,6 @@
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/ziyadoodle/ziyadoodle/refs/heads/main/text.gif" alt=""/>
+  <br><br>
+  <img  src="https://raw.githubusercontent.com/ziyadoodle/ziyadoodle/refs/heads/main/Gbe0ZWfbkAE7JLB.jpeg" alt=""/>
 </div>
