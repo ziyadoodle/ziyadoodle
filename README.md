@@ -16,7 +16,7 @@
   
 ⁺‧₊°.⋆༺  𝑺𝒐𝒄𝒊𝒂𝒍𝒔:  ༻⋆.°˚₊‧⁺<br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziyad-f-zidane)<br />
-<img src="https://raw.githubusercontent.com/ziyadoodle/ziyadoodle/refs/heads/main/linkedin-embed.png" width=300 /> <br />
+[![LinkedIn](https://raw.githubusercontent.com/ziyadoodle/ziyadoodle/refs/heads/main/linkedin-embed-fotor-20250907132715.png)](https://linkedin.com/in/ziyad-f-zidane)
 
 <img src="https://img.shields.io/badge/Discord-FFFFFF.svg?logo=discord&logoColor=white)" /> <br />
 <a href="https://discord.com/users/427790844884680715">
